@@ -10,5 +10,5 @@ A repository to archive data science and business intelligent projects to demons
 * `SQL`: Examples of SQL queries for various scenarios.
 
 ## In Progress
-* `Tableau`: Dynamic dashboard that automates ETL and visualization.
+* `Tableau`: Interactive dashboard that automates ETL and visualization.
 
